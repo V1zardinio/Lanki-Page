@@ -1,0 +1,27 @@
+body {
+	margin: 0px;
+}
+div.head {
+	padding-bottom: 3vh;
+	padding-top: 3vh;
+	background-color: aqua;
+}
+p.Logo_name {
+	padding-left: 8vw;
+	font-size: 8vw;
+	margin: 0px;
+}
+div.body {
+	height: 86vh;
+}
+div.button {
+	padding-top: 35vh;
+}
+p.button_text {
+	background-color: red;
+	font-size: 5vw;
+	color: white;
+	width: 20vw;
+	height: 10vw;
+	text-align: center;
+}
